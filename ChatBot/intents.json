@@ -1,0 +1,81 @@
+
+{
+  "intents": [
+    {
+      "tags": "greetings",
+      "patterns": ["Hi", "Hello", "Hey", "Howdy", "Greetings"],
+      "responses": ["Hey! How are you?", "Hello there!", "Hi, how can I help you?", "Hey, what's up?", "Greetings!"]
+    },
+    {
+      "tags": "farewell",
+      "patterns": ["Goodbye", "See you later", "Bye", "Take care", "Until next time"],
+      "responses": ["Goodbye! Take care.", "See you later!", "Bye, have a great day!", "Until next time, farewell!", "Take care!"]
+    },
+    {
+      "tags": "gratitude",
+      "patterns": ["Thank you", "Thanks a lot", "Much appreciated", "Grateful", "Thanks"],
+      "responses": ["You're welcome!", "No problem, happy to help!", "Glad I could assist!", "Anytime!", "You're welcome, anytime!"]
+    },
+    {
+      "tags": "apologies",
+      "patterns": ["Sorry", "My apologies", "Apologies", "I apologize", "Forgive me"],
+      "responses": ["No worries!", "It's okay!", "No problem, mistakes happen.", "Apology accepted.", "All is forgiven."]
+    },
+    {
+      "tags": "asking for help",
+      "patterns": ["Can you help me?", "I need assistance", "Help please", "Could you assist me?", "I'm stuck"],
+      "responses": ["Of course, what do you need help with?", "Sure, I'll do my best to assist you.", "I'm here to help, what's the issue?", "Absolutely, tell me what you need.", "Sure thing, just let me know what you need assistance with."]
+    },
+    {
+      "tags": "expressing gratitude",
+      "patterns": ["I appreciate it", "Thank you so much", "You're a lifesaver", "I owe you one", "Thanks a bunch"],
+      "responses": ["You're welcome!", "Happy to help!", "Glad I could be of assistance!", "No problem at all!", "You're very welcome!"]
+    },
+    {
+      "tags": "making a request",
+      "patterns": ["Could you please...", "I would like to request", "Can you do me a favor?", "Would it be possible to...", "Please, can you"],
+      "responses": ["Sure, I'll do my best.", "Of course, what do you need?", "I'll see what I can do.", "Absolutely, just let me know what you need.", "Sure thing, go ahead and ask."]
+    },
+    {
+      "tags": "expressing frustration",
+      "patterns": ["I'm so frustrated", "This is annoying", "I can't believe this", "I'm at my wit's end", "Why is this happening?"],
+      "responses": ["I understand, sometimes things can be tough.", "Take a deep breath, we'll figure this out.", "Let's work through this together.", "I'm here to help you overcome this.", "I'm sorry you're feeling frustrated, but we'll get through it."]
+    },
+    {
+      "tags": "expressing happiness",
+      "patterns": ["I'm so happy", "This is amazing", "I'm thrilled", "I'm over the moon", "I couldn't be happier"],
+      "responses": ["That's wonderful to hear!", "I'm thrilled for you!", "I'm glad things are going well!", "Keep up the great mood!", "It's fantastic to see you happy!"]
+    },
+    {
+      "tags": "asking for advice",
+      "patterns": ["What should I do?", "Any advice?", "Can you give me some guidance?", "I need your opinion", "What do you suggest?"],
+      "responses": ["Sure, I'll do my best to offer some advice.", "Of course, I'm here to help.", "Let's brainstorm some options together.", "I'd be happy to give you my thoughts.", "Absolutely, tell me more about your situation."]
+    },
+    {
+      "tags": "expressing surprise",
+      "patterns": ["I can't believe it", "This is unexpected", "Wow", "I'm shocked", "That's surprising"],
+      "responses": ["I know, it's surprising!", "Isn't it unexpected?", "Wow, that's quite a surprise!", "I understand, it's shocking.", "It's definitely unexpected."]
+    },
+    {
+      "tags": "expressing disappointment",
+      "patterns": ["I'm so disappointed", "This is disappointing", "I expected better", "I'm let down", "What a letdown"],
+      "responses": ["I'm sorry to hear that.", "That's tough, I understand.", "Let's see if we can improve the situation.", "I understand your disappointment.", "I'll do my best to make it better."]
+    },
+    {
+      "tags": "asking for clarification",
+      "patterns": ["Could you clarify?", "I'm not sure I understand", "Can you explain that again?", "Could you elaborate?", "I need more information"],
+      "responses": ["Sure, let me explain.", "Of course, I'll clarify.", "Let me provide more details.", "I'll do my best to make it clearer.", "Absolutely, here's more information."]
+    },
+    {
+      "tags": "expressing confusion",
+      "patterns": ["I'm confused", "This doesn't make sense", "I don't understand", "What's going on?", "I'm lost"],
+      "responses": ["Let's work through this together.", "I'll do my best to clear things up.", "Don't worry, we'll figure it out.", "I understand, it can be confusing.", "Let's break it down step by step."]
+    },
+    {
+      "tags": "expressing satisfaction",
+      "patterns": ["I'm satisfied", "This is great", "I'm happy with this", "I'm pleased", "This meets my expectations"],
+      "responses": ["I'm glad to hear that!", "That's fantastic!", "I'm pleased that you're satisfied.", "Excellent, I'm happy for you.", "It's great to know you're happy with it!"]
+    }
+
+
+    ]}
